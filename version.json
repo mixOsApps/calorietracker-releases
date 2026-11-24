@@ -1,1 +1,7 @@
-{"versionCode":1,"versionName":"1.1.0","apkUrl":"","releaseNotes":"","forceUpdate":false}
+{
+    "versionCode":  2,
+    "versionName":  "1.2.0",
+    "apkUrl":  "https://github.com/mixOsApps/calorietracker-releases/releases/download/v1.2.0/calorie-tracker-1.2.0.apk",
+    "releaseNotes":  "First public release: in-app updates with progress on screen (Background or Cancel), and updates only install when you tap Install.",
+    "forceUpdate":  false
+}
